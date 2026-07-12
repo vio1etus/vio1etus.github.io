@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vio1etus.github.io/publications.html</loc>
+    
+    <lastmod>2026-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vio1etus.github.io/index.html</loc>
     
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vio1etus.github.io/services.html</loc>
+    
+    <lastmod>2026-07-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +31,7 @@
   <url>
     <loc>https://vio1etus.github.io/google83e9e789ce435c29.html</loc>
     
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +40,7 @@
 
   <url>
     <loc>https://vio1etus.github.io/</loc>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
